@@ -12,4 +12,4 @@ browser
 - HTML
 
 # 📸 Preview
-![preview image](image.png)
+![alt text](image-1.png)
